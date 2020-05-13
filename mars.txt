@@ -4,3 +4,4 @@ Num. of moons:2
 Humidity: usually dry
 New Color: mostly brown
 Arrived:2020-05-12
+No clouds
